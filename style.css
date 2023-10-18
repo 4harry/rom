@@ -1,0 +1,52 @@
+/* header, section {
+    width: 70%;
+} */
+
+body{
+    font-family: "Lato", sans-serif;
+}
+
+h1 {
+    color: #4acaa8;
+}
+
+img {
+    width: 100%;
+}
+
+.form {
+    border: 3px solid red;
+}
+
+.footer {
+    background-color: #fafafa;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: antiquewhite;
+}
+
+.nav {
+    min-width: 278px;
+    max-width: 491px;
+    background-color: #4acaa8;
+    color: #fafafa;
+}
+
+.main {
+    width: 70%;
+    background-color: cadetblue;
+}
+
+a {
+    color:#fafafa;
+    text-decoration: none;    
+}
+
+nav img {
+    max-width: 120px;
+    max-height: 120px;
+}
